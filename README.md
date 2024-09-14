@@ -25,6 +25,8 @@
 
 [Skill (3) 주문,결제 정보 암호화 및 복호화](https://github.com/chaSunil/skillGuild/issues/4)
 
+[Skill (4) Spring Boot에서 JSP 사용하기](https://backendcode.tistory.com/121)
+
 </br>
 
 ## 기술면접 준비소
