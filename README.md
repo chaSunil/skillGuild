@@ -18,3 +18,9 @@
 [Skill (2) Exception 예외 처리 중앙화 AOP](https://github.com/chaSunil/skillGuild/issues/3)
 
 [Skill (3) 주문,결제 정보 암호화 및 복호화](https://github.com/chaSunil/skillGuild/issues/4)
+
+</br>
+
+## 기술면접 준비소
+
+[기술면접 교관에게로](https://www.notion.so/Once-a-week-71ab9095d2124f20b17310bc83b03724?pvs=4)
