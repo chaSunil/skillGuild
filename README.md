@@ -5,12 +5,13 @@
 
 ## 양식
 > 모험가는 해당하는 양식으로 Skill 습득 방법을 적어주길 바란다. -직업교관-
+> > [Skill (Form)](https://github.com/chaSunil/skillGuild/issues/3)
 </br>
 
 ## 📖Skill 교육소
 
 [Skill (1) 웹 페이지 알람기능 구현](https://github.com/chaSunil/skillGuild/issues/1)
 
-[Skill (2) Exception 예외 처리 중앙화 AOP](https://github.com/chaSunil/skillGuild/issues/1)
+[Skill (2) Exception 예외 처리 중앙화 AOP](https://github.com/chaSunil/skillGuild/issues/3)
 
-[Skill (3) 주문,결제 정보 암호화 및 복호화](https://github.com/chaSunil/skillGuild/issues/1)
+[Skill (3) 주문,결제 정보 암호화 및 복호화](https://github.com/chaSunil/skillGuild/issues/4)
