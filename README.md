@@ -11,11 +11,11 @@
 > > [Skill (Form)](https://github.com/chaSunil/skillGuild/issues/3)
 </br>
 
-</br>
-
 ## 깃헙 교육소
 
 [깃헙 체험관](https://learngitbranching.js.org/?locale=ko)
+
+</br>
 
 ## 📖Skill 교육소
 
