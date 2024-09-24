@@ -27,6 +27,8 @@
 
 [Skill (4) Spring Boot에서 JSP 사용하기](https://github.com/chaSunil/skillGuild/issues/5)
 
+[Skill (Web에서 정보를 임시로 저장하자 sessionStorage IocalStorage)](https://github.com/chaSunil/skillGuild/issues/6)
+
 </br>
 
 ## 기술면접 준비소
