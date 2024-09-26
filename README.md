@@ -29,6 +29,8 @@
 
 [Skill (Web에서 정보를 임시로 저장하자 sessionStorage IocalStorage)](https://github.com/chaSunil/skillGuild/issues/6)
 
+[Skill (cmd에서 Spring Boot Gradle을 Build하고, 실행시키기)](https://github.com/chaSunil/skillGuild/issues/7)
+
 </br>
 
 ## 기술면접 준비소
