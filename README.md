@@ -33,6 +33,8 @@
 
 [Skill (CI/CD로 EC2 서버에 Docker와 연동시켜서 배포 자동화)](https://github.com/chaSunil/skillGuild/issues/8)
 
+[Skill (AWS 탄력적 IP 사용)](https://velog.io/@goss1997/AWS-EC2-Elastic-IP%ED%83%84%EB%A0%A5%EC%A0%81-IP%EC%84%A4%EC%A0%95)
+
 </br>
 
 ## 기술면접 준비소
