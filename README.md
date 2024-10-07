@@ -31,7 +31,7 @@
 
 [Skill (cmd에서 Spring Boot Gradle을 Build하고, 실행시키기)](https://github.com/chaSunil/skillGuild/issues/7)
 
-[Skill (CI/CD로 EC2 서버에 Docker와 연동시켜서 배포 자동화)](https://github.com/chaSunil/skillGuild/issues/7)
+[Skill (CI/CD로 EC2 서버에 Docker와 연동시켜서 배포 자동화)](https://github.com/chaSunil/skillGuild/issues/8)
 
 </br>
 
