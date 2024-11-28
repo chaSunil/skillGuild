@@ -35,6 +35,8 @@
 
 [Skill (AWS 탄력적 IP 사용)](https://velog.io/@goss1997/AWS-EC2-Elastic-IP%ED%83%84%EB%A0%A5%EC%A0%81-IP%EC%84%A4%EC%A0%95)
 
+[Skill (MySQL DBeaver에서 AWS 인스턴스 DataBase 관리하는 방법)](https://chainterior.tistory.com/315)
+
 </br>
 
 ## 기술면접 준비소
